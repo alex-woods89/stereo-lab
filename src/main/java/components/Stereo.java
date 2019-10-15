@@ -1,3 +1,5 @@
+package components;
+
 import components.CDPlayer;
 import components.Radio;
 

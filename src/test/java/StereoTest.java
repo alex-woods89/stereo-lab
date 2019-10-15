@@ -1,3 +1,4 @@
+import components.Stereo;
 import org.junit.Before;
 import org.junit.Test;
 

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c30dce95-06da-4817-9fd4-e15a2fc2fe5b" name="Default Changelist" comment="" />
+    <list default="true" id="c30dce95-06da-4817-9fd4-e15a2fc2fe5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/interfaces_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behaviour/IConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MP3PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces/interfaces_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/interfaces/interfaces_start_point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stereo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/components/Stereo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/components/MP3Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/components/MP3Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StereoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StereoTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +21,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,6 +37,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1SEkfoSkKsaiHK0x5popRT84hDT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -40,11 +58,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StereoTest.canGetStereoName">
-    <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MP3PlayerTest">
+    <configuration name="MP3PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day_2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="MAIN_CLASS_NAME" value="MP3PlayerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MP3PlayerTest" />
         <item itemvalue="JUnit.StereoTest.canGetStereoName" />
         <item itemvalue="JUnit.StereoTest.canPlayCD" />
         <item itemvalue="JUnit.StereoTest" />
         <item itemvalue="JUnit.StereoTest.canPlayRadio" />
-        <item itemvalue="JUnit.RadioTest" />
       </list>
     </recent_temporary>
   </component>
@@ -111,5 +129,16 @@
       <updated>1571136248914</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
